@@ -47,7 +47,7 @@ Execute o comando `npm run start:seed`. Este comando criará o seguinte usuário
 {
     "name": "Administrador",
     "username": "admin",
-    "password": "admin21" // armazenada criptografada no banco
+    "password": "admin21", // armazenada criptografada no banco
     "isActive": true
 }
 ```
